@@ -1,4 +1,4 @@
-# Discord IP Logger
+# mathpunch IP Puller 1.0
 Log IPs and have them sent directly to your discord webhook
 
 
