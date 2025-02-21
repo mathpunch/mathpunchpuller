@@ -1,11 +1,7 @@
 # mathpunch IP Puller 1.0
-Log IPs and have them sent directly to your discord webhook
+A Website To Get Someones IP Address
 
 
----
-
-This was made by me, Raz. 
-This is not meant to be purposized for illegal use and is strictly for educational use.
 
 ---
 
